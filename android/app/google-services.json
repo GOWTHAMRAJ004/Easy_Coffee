@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357557181865",
+    "project_id": "easy-coffee-ddbbe",
+    "storage_bucket": "easy-coffee-ddbbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357557181865:android:4175c65a0c46cd001438b8",
+        "android_client_info": {
+          "package_name": "com.gowtham.easy_coffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357557181865-10g1l0581dorian8ce1jolfu32mtjgqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmDQxrqvXOQEdFw9Jx2JU_AJvrJZ65ftk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357557181865-10g1l0581dorian8ce1jolfu32mtjgqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
